@@ -1,4 +1,4 @@
-🕵️ Fraud Detection Using Machine Learning
+🕵️ FFraud Detection Using Machine Learning
 This project focuses on detecting fraudulent transactions using machine learning techniques. It leverages a synthetic financial transactions dataset from Kaggle, containing detailed behavioral, transactional, and customer attributes, with the goal of building models that can effectively distinguish between fraudulent and non-fraudulent activities.
 
 📊 Dataset Overview
