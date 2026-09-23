@@ -115,7 +115,13 @@ pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
 
-4. Download the dataset from Kaggle and place it in the `dataset/` folder.
+4. Project Live Demo:
+
+```bash
+https://rizvyportfolio.netlify.app/#projects
+```
+
+5. Download the dataset from Kaggle and place it in the `dataset/` folder.
 
 ---
 
