@@ -130,10 +130,10 @@ jupyter notebook notebook.ipynb
 
 ## 🙋‍♂️ Author
 
-**Mehedi Hasan Mir**\
-Final Year CSE Student | AI & Machine Learning Enthusiast\
-Email: [mdmehedihassanmir@gmail.com(mailto\:mdmehedihassanmir@gmail.com)\
-GitHub: [https://github.com/mehedihasanmir](https://github.com/mehedihasanmir)
+Md Rizvy Ahmed
+CSE Student | pentration tester & Machine Learning developer\
+Email: rizvyahmed678@gmail.com\
+GitHub: https://github.com/rizvyahmed76
 
 ---
 
