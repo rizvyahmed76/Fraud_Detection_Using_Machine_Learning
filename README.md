@@ -100,7 +100,7 @@ Several supervised learning algorithms were trained and evaluated, including:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/mehedihasanmir/Bank-Transaction-Dataset-for-Fraud-Detection.git
+git clone https://github.com/rizvyahmed76/Fraud_Detection_Using_Machine_Learning.git
 ```
 
 2. Install dependencies:
@@ -129,20 +129,10 @@ jupyter notebook notebook.ipynb
 ---
 
 ## 🙋‍♂️ Author
-
-<<<<<<< HEAD
-**Mehedi Hasan Mir**\
-Final Year CSE Student | AI & Machine Learning Enthusiast\
-Email: [mdmehedihassanmir@gmail.com(mailto\:mdmehedihassanmir@gmail.com)\
-GitHub: [https://github.com/mehedihasanmir](https://github.com/mehedihasanmir)
-=======
-Md Rizvy Ahmed
+Md Rizvy Ahmed |
 CSE Student | pentration tester & Machine Learning developer\
 Email: rizvyahmed678@gmail.com\
 GitHub: https://github.com/rizvyahmed76
->>>>>>> 1340fffd8bfd5ba42b98f066269cc966c1981cf5
-
----
 
 ## 📄 License
 
